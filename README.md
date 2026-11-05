@@ -56,3 +56,7 @@ to `SKILL.md`. The skill reads it first.
 
 I use it daily on two large projects with about 10 workstreams each. A new session opens with the
 rules, the current state and every open item from the last one, so nothing depends on my memory.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
